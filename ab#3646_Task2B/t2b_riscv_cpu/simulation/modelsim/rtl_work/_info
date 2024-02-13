@@ -1,0 +1,443 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1700071250
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8>_[8M9W@[4eJl`F;o>X63
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1699424100
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/adder.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/adder.v
+!i122 12
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1700071250.000000
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 Zl9d2BC46[M^moL3^1P^o2
+R2
+IFEYdFeW`Ho:=B>4<Ak4L40
+R3
+R0
+w1699510668
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu.v
+!i122 11
+L0 4 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu.v|
+!i113 1
+R7
+R8
+R9
+valu_decoder
+R1
+!i10b 1
+!s100 5g5SS?=j2c]9kc6G]eMnn2
+R2
+I>kHP[9>SPZj3[gYnTNS3z0
+R3
+R0
+w1699601176
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v
+!i122 10
+L0 4 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/alu_decoder.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+R1
+!i10b 1
+!s100 61WlO4E?PV>I?<C[nT>D70
+R2
+I9eAmFe71LUP85bN9l15Cz0
+R3
+R0
+w1699620728
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/controller.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/controller.v
+!i122 9
+L0 4 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/controller.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+R1
+!i10b 1
+!s100 cSgAMTM]e`<Hged1CI=SB3
+R2
+I:]F^2NZmokH:PL]9_W49S1
+R3
+R0
+w1699618858
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/data_mem.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/data_mem.v
+!i122 13
+L0 4 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/data_mem.v|
+!i113 1
+R7
+Z10 !s92 -vlog01compat -work work +incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu
+R9
+vdatapath
+R1
+!i10b 1
+!s100 O28=]lA:gQILioFDKn=We2
+R2
+IMj@BXaWcn<ZH3HfD>K4@W1
+R3
+R0
+w1699596522
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v
+!i122 8
+L0 4 53
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R1
+!i10b 1
+!s100 RgQ?:B9HOGj6dKTd_RDFc1
+R2
+I2U3]nTV^oa0J]YcB:Q]R<3
+R3
+R0
+R4
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v
+!i122 7
+L0 4 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+R1
+!i10b 1
+!s100 34=WC5DP3=:>R;n=f:<;01
+R2
+If_]ZQ76YT]Bz24]<_FH5L0
+R3
+R0
+Z11 w1699461896
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/instr_mem.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/instr_mem.v
+!i122 16
+L0 4 17
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/instr_mem.v|
+!i113 1
+R7
+R10
+R9
+vload_extend
+R1
+!i10b 1
+!s100 OL@6b0RIl7VG9HofNj8TZ3
+R2
+Iai4TfBRJ=5Dggz7UZUi_R3
+R3
+R0
+w1699548424
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v
+!i122 6
+L0 5 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/load_extend.v|
+!i113 1
+R7
+R8
+R9
+vmain_decoder
+R1
+!i10b 1
+!s100 1N>MaGTRznP2aJ0I2?fEF0
+R2
+I1Rf@Em>WK<2X4Fl4=FEgI3
+R3
+R0
+w1699621508
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v
+!i122 5
+L0 4 63
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vmux2
+R1
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+IoNjSmhX@mM0FWn^>4OZPh2
+R3
+R0
+R4
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v
+!i122 4
+Z12 L0 4 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux4
+R1
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+I?KH6[`?R=BoK`<eMKBoDE1
+R3
+R0
+R4
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v
+!i122 3
+R12
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/mux4.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R1
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+IIJ5NI`NUhh?iXQFkffeGY0
+R3
+R0
+R4
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v
+!i122 2
+L0 8 27
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R1
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+Ik2c]4P^AO7ZT3UHRgCS=F1
+R3
+R0
+R4
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v
+!i122 1
+L0 4 12
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+R1
+!i10b 1
+!s100 3`_B]h]dV2hj`2JoMZ1W<2
+R2
+III>Jf>RPd=adCRmnj2i8U1
+R3
+R0
+w1699599022
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/riscv_cpu.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/riscv_cpu.v
+!i122 14
+L0 4 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/riscv_cpu.v|
+!i113 1
+R7
+R10
+R9
+vstore_extend
+R1
+!i10b 1
+!s100 `7lgHbO]i8?35[O610COF3
+R2
+I>fJUG<9fk6gR4<G4QPMoz0
+R3
+R0
+R4
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v
+!i122 0
+L0 4 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/verilog_codes/store_extend.v|
+!i113 1
+R7
+R8
+R9
+vt2b_riscv_cpu
+R1
+!i10b 1
+!s100 Ok;H?=kWRhRcddT@L3;W81
+R2
+I8f4<LQYVj7f7gA`27]hmX3
+R3
+R0
+R11
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v
+!i122 15
+L0 17 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!i113 1
+R7
+R10
+R9
+vtb
+R1
+!i10b 1
+!s100 YmX5GZ5knY=g?g6]ho1EK0
+R2
+If=m]=GWQgdnB7VOMMmk9R3
+R3
+R0
+w1699629516
+8/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v
+F/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v
+!i122 17
+L0 3 92
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/simulation/modelsim|/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work +incdir+/home/ashutosh/eyrc/task2/main/ab#3646_Task2B/t2b_riscv_cpu/simulation/modelsim
+R9
