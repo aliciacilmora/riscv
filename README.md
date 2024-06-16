@@ -25,7 +25,7 @@ AstroTinker Bot is designed to navigate through various modules of a space stati
 
 To get started with the AstroTinker Bot, follow these steps:
 
-1. **Clone the Repository:**
+1. **Clone the Repository**
 
 2. **Install Dependencies:** Ensure you have the necessary tools and libraries installed for FPGA development and wireless communication.
 
